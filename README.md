@@ -3,8 +3,7 @@
 A data visualization project built for the **CodeAlpha Data Analytics Internship (Task 3)**. It analyses Brazilian e-commerce orders from the Olist dataset and presents the results in an interactive Tableau Public dashboard.
 
 ## Live Dashboard
-👉 **[View the dashboard on Tableau Public]((https://public.tableau.com/app/profile/sayan.bhadra/viz/Book1_17954159039400/Dashboard1?publish=yes))[*]
-
+👉 **[View the dashboard on Tableau Public](https://public.tableau.com/app/profile/sayan.bhadra/viz/Book1_17954159039400/Dashboard1?publish=yes)**
 ![Dashboard](dashboard.png)
 
 ## Dataset
